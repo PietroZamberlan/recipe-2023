@@ -1,12 +1,12 @@
 testo
 
 
-modified line changing these final words
+modified line these final words
 
 
 
 def func(arg1, arg2,):
 
-    print('Mamt'')
-
+    print('Mamt')
+    print('Sort')
     return arg1+arg2
