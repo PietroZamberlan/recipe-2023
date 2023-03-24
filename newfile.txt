@@ -2,3 +2,11 @@ testo
 
 
 modified line changing these final words
+
+
+
+def func(arg1, arg2,):
+
+    print('Mamt'')
+
+    return arg1+arg2
